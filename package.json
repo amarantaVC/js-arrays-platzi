@@ -1,0 +1,22 @@
+{
+  "name": "js-arrays-platzi",
+  "version": "1.0.0",
+  "description": "curso de Manipulación de Arrays en JavaScript. Esta vez conocerás los arrays en JavaScript, aprenderás desde cómo crearlos hasta los distintos métodos que tiene.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amarantaVC/js-arrays-platzi.git"
+  },
+  "author": "Amaranta Villegas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amarantaVC/js-arrays-platzi/issues"
+  },
+  "homepage": "https://github.com/amarantaVC/js-arrays-platzi#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
