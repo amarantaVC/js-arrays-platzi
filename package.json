@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/amarantaVC/js-arrays-platzi#readme",
   "dependencies": {
+    "date-fns": "^2.29.2",
     "http-server": "^14.1.1"
   }
 }
